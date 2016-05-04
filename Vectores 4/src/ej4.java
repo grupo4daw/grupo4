@@ -27,7 +27,7 @@ public class ej4 {
     		 System.out.println("Dime un valor");
     		 
     		 vec[i] = teclado.nextInt();
-    		 
+    		 //fgfdgdg
     	 }
     	 
     	 
