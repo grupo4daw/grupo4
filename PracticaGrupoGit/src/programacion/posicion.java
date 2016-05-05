@@ -3,7 +3,7 @@ package programacion;
 /**
  * COnstructor copia.
  * Establece el valor incioal de cada uno de
- * los valores obtenidos de un objeto de su
+ * los valores obtenidos de un objeto 
  */
 
 
