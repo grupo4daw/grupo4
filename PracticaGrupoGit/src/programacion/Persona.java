@@ -6,7 +6,7 @@ import util.Formato;
 /** Proyecto: Juego de la vida.
 
  *  @source: Persona.java 
- *  @version: 2.1 - 05/05/2016 
+ *  @version: 2.1 - 11/05/2016 
  *  @author: SALVADOR ZAPATA CASALES
  */
 
